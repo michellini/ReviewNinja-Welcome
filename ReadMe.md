@@ -38,4 +38,4 @@ a sufficient number of ninja stars, it’s ready to merge!
 That’s it! These are the basic features of ReviewNinja to help you get 
 started. We hope you enjoy using the tool, and please 
 [let us know](https://github.com/reviewninja/review.ninja/issues/new) 
-how we can make it better!
+how we can make it better1
